@@ -398,6 +398,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/andromeda/proprietary/vendor/bin/xtra-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/xtra-daemon \
     vendor/xiaomi/andromeda/proprietary/vendor/bin/xtwifi-client:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-client \
     vendor/xiaomi/andromeda/proprietary/vendor/bin/xtwifi-inet-agent:$(TARGET_COPY_OUT_VENDOR)/bin/xtwifi-inet-agent \
+    vendor/xiaomi/andromeda/proprietary/vendor/etc/NOTICE_GPL.html.gz:$(TARGET_COPY_OUT_VENDOR)/etc/NOTICE_GPL.html.gz \
     vendor/xiaomi/andromeda/proprietary/vendor/etc/XiaoAiTongXue.uim:$(TARGET_COPY_OUT_VENDOR)/etc/XiaoAiTongXue.uim \
     vendor/xiaomi/andromeda/proprietary/vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb \
     vendor/xiaomi/andromeda/proprietary/vendor/etc/acdbdata/Forte/Forte_Codec_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Codec_cal.acdb \
